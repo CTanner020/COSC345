@@ -16,6 +16,7 @@ Why we chose to use Dart for our JavaScript (Hussein);
 
 
 Why we chose to use Eclipse for our Editor (James);
+
 It was originally decided to use Eclipse as our JavaScript IDE however on further investigation into Reddit forums and review 
 sites, no one seems to recommend Eclipse for JavaScript. It's many faults include incorrect code diagnostics and a lack of code 
 folding with very slow startup. I then looked into Webstorm as an alternative, which I think we should try as it is reccomended

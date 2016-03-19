@@ -1,6 +1,6 @@
 This is where everyone puts their stuff for the first assignment.
 
-Personal descriptions come after here;
+Personal descriptions come after here:
 
 James Cross 1350026
 Jamesdcross@gmail.com
@@ -25,7 +25,9 @@ silver-moon1412@hotmail.com
 I have done Python, Java, C, netBeans and I used a little bit of JavaScript in a project throuth the corse.
 English is my second language so any part with the language i will stay away from it.
 
-Justification for using GitHub (Callum);
+Brief description of the application and how the work will be partitioned between the emulator and application:
+
+Justification for using GitHub (Callum):
 For our version control system, we decided to use GitHub. The main reasoning here was that some of us already had experience with
 GitHub, which makes teaching the other members a lot easier than everyone on the team trying to learn a new system. GitHub
 also offers a series of features that make it a good choice version control system for this project, including the ability to
@@ -35,7 +37,7 @@ when we move into employment.
 
 Repsoitory URL: https://github.com/CTanner020/COSC345.git
 
-Why we chose to use Dart for our JavaScript (Hussein);
+Why we chose to use Dart for our JavaScript (Hussein):
 
 Nowadays there are a multitude of languages for JavaScript development. After a bit
 of searching, we decided to choose Dart over other languages because our group is
@@ -55,7 +57,7 @@ it fixes a lot of the problems that JavaScript has.
 
 
 
-Why we chose to use Eclipse for our Editor (James);
+Why we chose to use Eclipse for our Editor (James):
 
 It was originally decided to use Eclipse as our JavaScript IDE however on further investigation into Reddit forums and review 
 sites, no one seems to recommend Eclipse for JavaScript. It's many faults include incorrect code diagnostics and a lack of code 
@@ -63,10 +65,12 @@ folding with very slow startup. I then looked into Webstorm as an alternative, w
 highly. However it does seem like it might have a steep learning curve. Netbeans may be the best option for us at this time as 
 some of us already have experience with it.
 
-Why we chose to use FireBug for our debugging (Yousef);
+Why we chose to use FireBug for our debugging (Yousef):
 
 The debugging tool that we aim to use for our debugging is Firebug.
 Firebug integrates with Firefox to put a wealth of web development tools at your fingertips while you brrowse.
 The reason we chose Firebug is because it allows us to edit, debug, and monitor CSS, HTML and JavaScript live in any web page.
 Also and more importantly it quickly finds the errors when things go wrong and immediately gives you detailed and useful information about 
 the errors in JavaScript, CSS, and XML. In addition, Firebug has a better and cleaner interface for editing HTML and CSS over Chrome.
+
+Estimate of project pieces and timetable. This includes training times:

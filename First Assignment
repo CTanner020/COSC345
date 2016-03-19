@@ -63,4 +63,5 @@ Why we chose to use FireBug for our debugging (Yousef);
 The debugging tool that we aim to use for our debugging is Firebug.
 Firebug integrates with Firefox to put a wealth of web development tools at your fingertips while you brrowse.
 The reason we chose Firebug is because it allows us to edit, debug, and monitor CSS, HTML and JavaScript live in any web page.
-Also and more importantly it quickly finds the errors when things go wrong and immediately gives you detailed and useful information about the errors in JavaScript, CSS, and XML. In addition, Firebug has a better and cleaner interface for editing HTML and CSS over Chrome.
+Also and more importantly it quickly finds the errors when things go wrong and immediately gives you detailed and useful information about 
+the errors in JavaScript, CSS, and XML. In addition, Firebug has a better and cleaner interface for editing HTML and CSS over Chrome.

@@ -32,6 +32,23 @@ Repsoitory URL: https://github.com/CTanner020/COSC345.git
 
 Why we chose to use Dart for our JavaScript (Hussein);
 
+Nowadays there are a multitude of languages for JavaScript development. After a bit
+of searching, we decided to choose Dart over other languages because our group is
+confortable with it for the benefits it has in our case.
+
+If we are starting a new web app, considering Dart suitable choice for our
+application.  It’s a very clean, modern language with extensive libraries out-of-the
+box.  However, our application must also run on smart-watch browsers, and
+interface properly with our native code.  If we later find out that Dart code doesn’t
+run properly or fast enough on the devices, we may be at a dead end.  This is a risk
+we don’t want to take.
+
+Dart is a broadly useful programming language that is implied for front-end Web
+development, but can also be used to make numerous different sorts of applications.
+It compiles directly to JavaScript, so it can be used across all browsers and arguably,
+it fixes a lot of the problems that JavaScript has.
+
+
 
 Why we chose to use Eclipse for our Editor (James);
 

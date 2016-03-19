@@ -21,7 +21,14 @@ Limited creative ability.
 -"I'm good at solving problems. I'm bad at coming up with new creative directions."
 
 Justification for using GitHub (Callum);
+For our version control system, we decided to use GitHub. The main reasoning here was that some of us already had experience with
+GitHub, which makes teaching the other members a lot easier than everyone on the team trying to learn a new system. GitHub
+also offers a series of features that make it a good choice version control system for this project, including the ability to
+control which collaborators can access the repositiory, the ability for users to edit the files from anywhere, automatic
+changelog creation and the fact that it is widely used in industry, meaning that learning it now puts us at an advantage for
+when we move into employment.
 
+Repsoitory URL: https://github.com/CTanner020/COSC345.git
 
 Why we chose to use Dart for our JavaScript (Hussein);
 

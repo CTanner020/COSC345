@@ -41,7 +41,7 @@ folding with very slow startup. I then looked into Webstorm as an alternative, w
 highly. However it does seem like it might have a steep learning curve. Netbeans may be the best option for us at this time as 
 some of us already have experience with it.
 
-Why we chose to use FireBug for our debugging (Yosef);
+Why we chose to use FireBug for our debugging (Yousef);
 
 The debugging tool that we aim to use for our debugging is Firebug.
 Firebug integrates with Firefox to put a wealth of web development tools at your fingertips while you brrowse.

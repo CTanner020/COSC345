@@ -84,3 +84,36 @@ Also and more importantly it quickly finds the errors when things go wrong and i
 the errors in JavaScript, CSS, and XML. In addition, Firebug has a better and cleaner interface for editing HTML and CSS over Chrome.
 
 Estimate of project pieces and timetable. This includes training times(Yousef):
+
+Desciption of the calendar app prototype (James):
+
+Features
+
+Achievable
+•	Display accurate date, days and months of the year (leap years etc.)
+•	Display Local/World Events
+•	Adjustable colours of calendar display
+•	Adjustable alert sounds
+•	Event creation, make appointments
+•	Repeating appointments
+•	Display address of appointment/event location
+•	Priorities for events/appointments
+•	Connection to phone?—this is something we didn’t really discuss that is important
+
+Extra Features (may not be achievable)
+•	App predictively inserts appointments/events based on past appointments/events
+•	Import Facebook and Email Contacts –to what? –why do you need contacts in a calendar?
+•	GPS – tells you where your appointment/event is via Google Maps, tells you if you’re 
+  running late and how long it will take to get there. 
+  
+Functionality
+The screen size of a smart watch is about 38mm meaning there is not much room, we have opted 
+for a bottom up approach. If we start by looking at the day it would just contain active 
+events/appointments (not every hour of the day) which should fit on one screen ideally. 
+If the day is filled with appointments the view would be scrollable up and down to accommodate every appointment. 
+To enter an appointment, the same scrollable approach would be used with a more detailed display of each hour block
+in the day that you can tap on to enter an appointment. A small back button is the main navigation tool of our calendar app.
+Navigating from the day display (which is likely the most commonly used display) we tap the back button to go to week
+display which displays days instead of hours then months which displays weeks instead of days and so on.
+
+

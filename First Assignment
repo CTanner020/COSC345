@@ -96,19 +96,20 @@ From there, it will have several display options:
 We intend for this to be an easy to use all purpose app for any kind of calendar related usage, be it your university timetable, pill taking times, work schedule, one-off events etc.
 What parts the Emulator and Application will do:
 
-Emulator:
+Emulator provides:
 
-Provide current Time and Date
-Physical alerts, noises etc.
-Touch screen (mouse click)
-Running the app
+-Current Time and Date, as well as the calendar for the app to use
+-Physical alerts, noises etc.
+-Touch screen (mouse click for single tap, double tap, etc)
+-Calling/running the app
+-Storage of input events/data
 
 Application:
 
-Input data
-Alarm activation
-Input interface
-Visual layout of app
+-Ability to input data
+-Alarm activation
+-Input interface
+-Visual layout of app
 
 
 Desciption of the calendar app prototype (James):
